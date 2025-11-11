@@ -1,0 +1,6 @@
+2025-11-11 14:17:26,651 - __main__ - INFO - Starting User Fetcher application
+2025-11-11 14:17:26,659 - __main__ - INFO - Fetching data from https://jsonplaceholder.typicode.com/users
+2025-11-11 14:17:27,243 - __main__ - INFO - Data cached successfully
+2025-11-11 14:17:27,243 - __main__ - INFO - Successfully fetched 10 users
+2025-11-11 14:17:27,243 - __main__ - INFO - Displaying 10 users in pretty format
+2025-11-11 14:17:27,259 - __main__ - INFO - Application finished successfully

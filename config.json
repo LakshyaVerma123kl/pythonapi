@@ -1,0 +1,21 @@
+{
+  "api": {
+    "base_url": "https://jsonplaceholder.typicode.com/users",
+    "timeout": 10,
+    "retry_attempts": 3
+  },
+  "cache": {
+    "enabled": true,
+    "duration": 300
+  },
+  "output": {
+    "default_format": "pretty",
+    "date_format": "%Y-%m-%d %H:%M:%S"
+  },
+  "logging": {
+    "level": "INFO",
+    "file": "user_fetcher.log",
+    "max_size": 10485760,
+    "backup_count": 3
+  }
+}
